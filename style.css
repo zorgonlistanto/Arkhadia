@@ -35,7 +35,7 @@ a {
 
 .header_cover {
 	padding: 140px 0 100px 0;
-	background-image: url('https://www.itl.cat/pngfile/big/195-1951127_earth-4k-wallpaper-download.png');
+	background-image: url(https://www.itl.cat/pngfile/big/195-1951127_earth-4k-wallpaper-download.png);
 	background-size: cover; 
 	background-size: 2700px 1090px;
 	color: white;
